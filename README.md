@@ -1,4 +1,4 @@
-# WikiaLinker
+# FANDOMLinker
 A configurable Discord bot for linking wiki articles from any Wikia-based community.
 
 # Syntax
